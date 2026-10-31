@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "people": {
+    "Dana": { "reading": "b_006", "pages_read": 41, "bookmark": { "page": 41, "note": "the sister finally answers the letter" } },
+    "Rey": { "reading": null, "pages_read": 0, "bookmark": null },
+    "Fern": { "reading": "b_003", "pages_read": 12, "bookmark": null }
+  },
+  "books": [
+    { "id": "b_001", "title": "Tiny Habits, Big Weeks", "author": "M. Okafor", "pages": 96, "owner": "Dana" },
+    { "id": "b_002", "title": "The Caretaker's Almanac", "author": "H. Blum", "pages": 188, "owner": "Rey" },
+    { "id": "b_003", "title": "A Field Guide to Kitchen Ghosts", "author": "P. Vang", "pages": 240, "owner": "Fern" },
+    { "id": "b_004", "title": "Night Shift Poems", "author": "S. Ferrer", "pages": 72, "owner": "Dana" },
+    { "id": "b_005", "title": "Budgeting for Real People", "author": "L. Tran", "pages": 150, "owner": "Rey" },
+    { "id": "b_006", "title": "The Massive AI Manual", "author": "D. Asdale", "pages": 420, "owner": "Dana" },
+    { "id": "b_007", "title": "Chess in Small Doses", "author": "R. Idowu", "pages": 120, "owner": "" },
+    { "id": "b_008", "title": "The Lighthouse Ledger", "author": "J. Marsh", "pages": 310, "owner": "Fern" }
+  ],
+  "loans": { "b_002": "Fern", "b_004": "Rey" }
+}
